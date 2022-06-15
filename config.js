@@ -3,15 +3,8 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
-// • Dll
+// • Rifnom
+// • Ainul
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -51,23 +44,23 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0895347198105'
-global.povo = '0895347198105'
-global.pgopay = '089636219593'
-global.ppulsa = '0895347198105'
-global.ppulsa2 = '0895347198105'
-global.psaweria = 'https://saweria.com/rifbotz'
+global.pdana = '085754202786'
+global.povo = '085754202785'
+global.pgopay = '08971724481'
+global.ppulsa = '08971724481'
+global.ppulsa2 = '085754202785'
+global.psaweria = 'https://saweria.co/AinulBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6295347198105'
-global.nomorown = '62895347198105'
-global.namebot = 'RifBotZ-Md'
-global.nameown = 'ArifXyz OFC'
+global.nomorbot = '628971724481'
+global.nomorown = '6285754202785'
+global.namebot = 'AinulBotz-Md'
+global.nameown = 'Ainul'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895347198105', 'ArifXyZ OFC ! 🐰', true]
+  ['6285754202785', 'Ainul ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +106,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Arif BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rif - Gαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Arif 𝗕𝗢𝗧'
+global.wm = '                「 Ainul あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ainulBotz - Gαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Ainul 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 ArifBotz あ⁩ 」'
+global.author = '                「 AinulBotz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
