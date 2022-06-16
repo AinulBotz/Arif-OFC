@@ -37,11 +37,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/arifrhmn._'
-global.sgh = 'https://github.com/RifBotZ19'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
+global.sig = 'https://instagram.com/ainul_181'
+global.sgh = 'https://github.com/AinulBotz'
+global.sgc = 'https://chat.whatsapp.com/DWKPCpwSpQEAyfrlFExy4H
 global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://saweria.co/AinulBot'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085754202786'
@@ -106,7 +106,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Ainul あ⁩ 」' //Main Watermark
+global.wm = '                「 Ainul 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ainulBotz - Gαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Ainul 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
